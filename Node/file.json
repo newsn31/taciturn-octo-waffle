@@ -1,0 +1,10 @@
+[
+    {
+        "server": "localhost",
+        "database": "sqlpocket",
+        "table": "county",
+        "column": "id",
+        "primaryKey": "id",
+        "type": "int(11)"
+    }
+]
